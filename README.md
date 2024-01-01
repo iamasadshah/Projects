@@ -4,6 +4,8 @@ Welcome to the WebDev Essentials repository, your gateway to foundational web de
 ## Clone
 To jump on on this coding adventure, navigate to the repository here, and initiate the clone to your local machine using the following command:
 
+Command
+
 git clone https://github.com/iamasadshah/Projects.git
 
 Once cloned, dive into the project folders, each housing a comprehensive README file. These files contain detailed instructions on setting up your development environment and provide a clear overview of the project's objectives. Consider this repository not only as a resource for hands-on coding but also as a collaborative space where you can contribute your ideas or enhancements.
